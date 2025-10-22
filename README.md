@@ -1,2 +1,7 @@
-# my_ziglings_solutions
-My solutions to Ziglings for dev 0.16.0
+# My Solutions - Ziglings Dev 0.16.0
+
+The exercises can be accessed at: https://codeberg.org/ziglings/exercises/
+
+These are my personal solutions, uploaded to document my Zig progress! 
+
+Hope they can be of guidance to anyone working on them.
