@@ -1,6 +1,6 @@
 # My Solutions - Ziglings Dev 0.16.0
 
-The exercises can be accessed at: https://codeberg.org/ziglings/exercises/
+Exercises can be accessed at: https://codeberg.org/ziglings/exercises/
 
 These are my personal solutions, uploaded to document my Zig progress! 
 
