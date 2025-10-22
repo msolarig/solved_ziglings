@@ -1,0 +1,23 @@
+.DS_Store
+
+# Zig build artifacts
+zig-cache/
+zig-out/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+
+# Dependency management files (if applicable, e.g., if using a package manager that generates lock files)
+# For example, if you were using a hypothetical Zig package manager that creates a lock file:
+# zig.lock 
+
+# Log files
+*.log
